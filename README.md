@@ -25,7 +25,7 @@
 
 ### [CSorter Website](https://csorter.void14.com)
 
-![preview]([project_1_screenshot_url](https://raw.githubusercontent.com/pointlessbish/csorter/main/public/social-preview-image.png))
+![preview](https://raw.githubusercontent.com/pointlessbish/csorter/main/public/social-preview-image.png)
  
 
 
