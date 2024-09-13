@@ -17,11 +17,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
-## Featured Projects 💻
-
-### [CSorter Website](https://csorter.void14.com)
-
-![preview](https://raw.githubusercontent.com/pointlessbish/csorter/main/public/social-preview-image.png)
  
 
 
